@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnonymousInsane
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C Programming
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my 
 
