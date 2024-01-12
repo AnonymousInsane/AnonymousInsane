@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnonymousInsane
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Advance Java
+- 🌱 I’m currently learning Hibernate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my 
 
